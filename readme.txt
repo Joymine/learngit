@@ -6,4 +6,5 @@ hello girls.
 remote try
 create a new branch is quick and simple.
 manage test dev test.
+git stash test.
 
